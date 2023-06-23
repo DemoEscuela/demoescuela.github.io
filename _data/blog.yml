@@ -1,12 +1,12 @@
 # blog page sections
-- name: Bloge
+- name: Inicio del Blog
   href: /blog/
 
 # edit following lines to custom your blog page, make sure name is the same as href but capitalized first letter(except HTML)
-- name: Pythons
+- name: Inscripciones
   href: /python/
 
-- name: Linux
+- name: Culturales
   href: /linux/
 
 - name: HTML
