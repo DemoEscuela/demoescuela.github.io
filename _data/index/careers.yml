@@ -7,10 +7,10 @@
     detail: Directora del Plantel
     i18n: company_a_desc
   date:
-    detail: Apr. 2023
+    detail: correo@electronico.com
     i18n: company_a_date
   job:
-    detail: direccion@correo.com
+    detail: 5562626262
     i18n: company_a_job
   icon: fa-plus-square
   present: true
