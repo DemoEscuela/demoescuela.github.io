@@ -16,15 +16,15 @@
   present: true
 
 - name:
-    detail: Company B
+    detail: Lic. Excelente Educativo
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: Subdirector Académico
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Jun. 2020
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: correo electrónico
     i18n: company_b_job
   icon: fa-plus-square
