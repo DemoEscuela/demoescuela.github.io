@@ -27,9 +27,9 @@ author:  # change following line to your infomation.
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: icon-apache
-    - name: fa-linux
+    - name: fa-phone
   skill_icon2:
-    - name: fa-linux
+    - name: fa-phone
     - name: icon-apache
   desc: Bienvenido a la Academia Excelencia, la mejor escuela de Ciudad Nezahualcóyotl. En nuestra institución, nos enorgullece ofrecer una educación de calidad que nutre las mentes y los corazones de nuestros estudiantes.
 En la Academia Excelencia, creemos en el poder de la educación para transformar vidas. Nuestro enfoque pedagógico innovador se basa en la excelencia académica, el desarrollo integral de los estudiantes y la formación en valores sólidos.
