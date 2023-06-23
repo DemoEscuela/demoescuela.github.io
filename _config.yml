@@ -2,8 +2,8 @@
 
 # Website settings
 title: Demo de Escuela
-description: Jack's blog,use Jekyll and github pages.
-keywords: Jack,Jalpc,blog,Jekyll,github,gh-pages
+description: Página Web de demostración de cómo se puede ver el sitio de tu Centro Educativo!
+keywords: escuela, centro educativo, educación, excelencia
 #baseurl:  /Jalpc # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 baseurl:  / # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 #url: https://jarrekk.github.io/Jalpc  # url should be 'http://<github_username>.github.io/homepage' as before
@@ -14,9 +14,9 @@ img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/asset
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
-  name: GitHub  # Be used at blog posts' author.
-  first_name: Hub  # Be used at index page about me section.
-  last_name: Git  # Be used at index page about me section.
+  name: Colegio Demo  # Be used at blog posts' author.
+  first_name: Demo  # Be used at index page about me section.
+  last_name: Colegio  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: jarrekk  # Leave blank if you don't have now
   linkedin_id: jarrekk # Leave blank if you don't have now
