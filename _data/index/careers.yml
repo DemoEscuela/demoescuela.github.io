@@ -42,3 +42,43 @@
     detail: correo@electrónico
     i18n: company_b_job
   icon: fa-plus-square
+
+- name:
+    detail: Lic. Excelente Educativo
+    i18n: company_b
+  desc:
+    detail: Subdirector Académico
+    i18n: company_b_desc
+  date:
+    detail: Jun. 2020
+    i18n: company_b_date
+  job:
+    detail: correo@electrónico
+    i18n: company_b_job
+  icon: fa-plus-square
+  - name:
+    detail: Lic. Excelente Educativo
+    i18n: company_b
+  desc:
+    detail: Subdirector Académico
+    i18n: company_b_desc
+  date:
+    detail: Jun. 2020
+    i18n: company_b_date
+  job:
+    detail: correo@electrónico
+    i18n: company_b_job
+  icon: fa-plus-square
+  - name:
+    detail: Lic. Excelente Educativo
+    i18n: company_b
+  desc:
+    detail: Subdirector Académico
+    i18n: company_b_desc
+  date:
+    detail: Jun. 2020
+    i18n: company_b_date
+  job:
+    detail: correo@electrónico
+    i18n: company_b_job
+  icon: fa-plus-square
