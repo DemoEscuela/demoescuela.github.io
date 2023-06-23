@@ -1,7 +1,7 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Lic Excelencia Educativa
+    detail: Lic. Excelencia Educativa
     i18n: company_a
   desc:
     detail: Directora del Plantel
@@ -10,7 +10,7 @@
     detail: Apr. 2023
     i18n: company_a_date
   job:
-    detail: Presente
+    detail: direccion@correo.com
     i18n: company_a_job
   icon: fa-plus-square
   present: true
@@ -25,6 +25,6 @@
     detail: Jun. 2020
     i18n: company_b_date
   job:
-    detail: correo electrónico
+    detail: correo@electrónico
     i18n: company_b_job
   icon: fa-plus-square
