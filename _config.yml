@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Demo de Academia de Excelencia!
+title: Demo de Academia de Excelencia
 description: Página Web de demostración de cómo se puede ver el sitio de tu Centro Educativo!
 keywords: escuela, centro educativo, educación, excelencia
 #baseurl:  /Jalpc # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
@@ -35,7 +35,7 @@ author:  # change following line to your infomation.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  name: jalpc
+  name: Demo
 
 # analytics
 ## google analytics
