@@ -7,10 +7,10 @@
     detail: Directora del Plantel
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: Apr. 2023
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Presente
     i18n: company_a_job
   icon: fa-plus-square
   present: true
